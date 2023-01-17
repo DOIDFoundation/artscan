@@ -1,0 +1,8 @@
+{
+  "name": "ARTSCAN",
+  "short_name": "ARTSCAN",
+  "icons": [],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
